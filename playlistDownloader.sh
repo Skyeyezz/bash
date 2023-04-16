@@ -4,7 +4,7 @@
 # downloads videos to a directory without removing existing files as well as writing video names of playlist to a .txt file
 # the purpose of writing the .txt file is to compare previous downloads to new downloads and see if any videos have been removed by youtube, etc
 
-# omit <> when filling in links and directories!
+# omit <> when filling in links!
 # but do not remove ""
 
 # just copy paste the code if you have multiple playlists, different directories and such
